@@ -1,0 +1,57 @@
+[{
+"id":0,
+"idCategoria":1,
+"precio":4500,
+"nombre":"remera blanca",
+"img": "remera.jpg",
+"stock": 2
+},{
+    "id":1,
+    "idCategoria":2,
+    "precio":5999,
+    "nombre":"Jeans",
+    "img": "pantalon.jpg",
+    "stock": 2
+},{
+    "id":2,
+    "idCategoria":2,
+    "precio":4400,
+    "nombre":"Pantalon Marrón",
+    "img": "pantalonmarron.jpg",
+    "stock": 2
+},{
+    "id":3,
+    "idCategoria":2,
+    "precio":4000,
+    "nombre":"pantalon",
+    "img": "pantalonnegro.jpg",
+    "stock": 2
+},{
+    "id":4,
+    "idCategoria":1,
+    "precio":4500,
+    "nombre":"Remera Adidas",
+    "img": "remeraadidas.jpg",
+    "stock": 2
+},{
+    "id":5,
+    "idCategoria":1,
+    "precio":5000,
+    "nombre":"Remera Nike",
+    "img": "remeranike.jpg",
+    "stock": 2
+},{
+    "id":6,
+    "idCategoria":2,
+    "precio":5500,
+    "nombre":"Pantalon Cargo",
+    "img": "pantaloncargo.jpg",
+    "stock": 2
+},{
+    "id":7,
+    "idCategoria":1,
+    "precio":5999,
+    "nombre":"Remera Under Armour",
+    "img": "remeraunderarmour.jpg",
+    "stock": 2
+}]

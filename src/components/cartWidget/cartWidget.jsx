@@ -1,11 +1,11 @@
-import './cartWidget.css'
+import { Link } from 'react-router-dom';
 const CartWidget = () => {
     return (
-        <ul className="navbar-nav me-auto">
+        <ul className="navbar-nav">
             <li className="nav-link">
-                <button className="btn btn-light">Carrito</button>
+                <button className="btn btn-light"><Link to={"/carrito"}>🛒</Link></button>
             </li>
-            <p>0</p>
+            <p className='numero'>0</p>
         </ul>
     );
 }
