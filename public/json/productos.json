@@ -2,56 +2,84 @@
 "id":0,
 "idCategoria":1,
 "precio":4500,
-"nombre":"remera blanca",
-"img": "remera.jpg",
-"stock": 2
+"nombre":"Remera Blanca",
+"img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/remera.jpg?alt=media&token=58003ad8-45b5-42fb-b8b7-a7036614ec38",
+"stock": 31
 },{
     "id":1,
     "idCategoria":2,
     "precio":5999,
     "nombre":"Jeans",
-    "img": "pantalon.jpg",
-    "stock": 2
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/pantalon.jpg?alt=media&token=31358c25-8c62-432e-8e17-39e61ce4861b",
+    "stock": 27
 },{
     "id":2,
     "idCategoria":2,
     "precio":4400,
-    "nombre":"Pantalon Marrón",
-    "img": "pantalonmarron.jpg",
-    "stock": 2
+    "nombre":"Pantalón Marrón",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/pantalonmarron.jpg?alt=media&token=403f4fd6-158b-4d46-aa9c-731998cdd8e9",
+    "stock": 26
 },{
     "id":3,
     "idCategoria":2,
     "precio":4000,
-    "nombre":"pantalon",
-    "img": "pantalonnegro.jpg",
-    "stock": 2
+    "nombre":"Pantalón",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/pantalonnegro.jpg?alt=media&token=03d447ae-6393-4a66-8601-cdd3a36496d6",
+    "stock": 24
 },{
     "id":4,
     "idCategoria":1,
     "precio":4500,
     "nombre":"Remera Adidas",
-    "img": "remeraadidas.jpg",
-    "stock": 2
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/remeraadidas.jpg?alt=media&token=212884fd-758a-41d4-b718-9ae2a2cba073",
+    "stock": 27
 },{
     "id":5,
     "idCategoria":1,
     "precio":5000,
     "nombre":"Remera Nike",
-    "img": "remeranike.jpg",
-    "stock": 2
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/remeranike.jpg?alt=media&token=37e67329-ab06-4c2c-8739-315b0913b63a",
+    "stock": 25
 },{
     "id":6,
     "idCategoria":2,
     "precio":5500,
-    "nombre":"Pantalon Cargo",
-    "img": "pantaloncargo.jpg",
-    "stock": 2
+    "nombre":"Pantalón Cargo",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/pantaloncargo.jpg?alt=media&token=2dcbfa07-14a5-4f3d-a558-b6bc3c776e7e",
+    "stock": 30
 },{
     "id":7,
     "idCategoria":1,
     "precio":5999,
     "nombre":"Remera Under Armour",
-    "img": "remeraunderarmour.jpg",
-    "stock": 2
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/remeraunderarmour.jpg?alt=media&token=bae57c6a-6a78-4369-8250-3fd6d83163c4",
+    "stock": 20
+},{
+    "id":8,
+    "idCategoria":3,
+    "precio":5999,
+    "nombre":"Zapatillas Nike",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/zapatillasnike.jpg?alt=media&token=8719e48b-1591-4cb8-8c92-1c663cc4bfa6",
+    "stock": 20
+},{
+    "id":9,
+    "idCategoria":3,
+    "precio":5999,
+    "nombre":"Zapatillas Adidas",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/zapatillasadidas.png?alt=media&token=ed22f7e7-c0e7-4818-8848-b77680a36e36",
+    "stock": 20
+},{
+    "id":10,
+    "idCategoria":3,
+    "precio":7999,
+    "nombre":"Zapatillas Vans",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/zapatillasvans.jpg?alt=media&token=d3154ad9-fb1a-4b1d-996f-449a206f99c0",
+    "stock": 20
+},{
+    "id":11,
+    "idCategoria":3,
+    "precio":10000,
+    "nombre":"Zapatillas Air Jordan",
+    "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-776ed.appspot.com/o/zapatillasairjordan.jpg?alt=media&token=a664eec2-64a4-4eab-a927-11f436e2b374",
+    "stock": 20
 }]
