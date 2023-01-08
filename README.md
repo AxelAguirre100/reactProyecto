@@ -16,15 +16,15 @@ npm i
 ## Fotos 📸
 
 _Inicio_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/iniciolightmode.png)
 _Carrito_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/carritolightmode.png)
 _Checkout_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/checkoutlightmode.png)
 
 _Inicio_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/iniciodarkmode.png)
 _Carrito_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/carritodarkmode.png)
 _Checkout_
-![alt Text]()
+![alt Text](https://github.com/AxelAguirre100/reactProyecto/blob/main/docs/checkoutdarkmode.png)
